@@ -1,0 +1,55 @@
+# this is an auto generated file. This will be overwritten
+mutation CreateAppUser($input: CreateAppUserInput!) {
+  createAppUser(input: $input) {
+    id
+    userName
+    locLat
+    locLng
+  }
+}
+mutation UpdateAppUser($input: UpdateAppUserInput!) {
+  updateAppUser(input: $input) {
+    id
+    userName
+    locLat
+    locLng
+  }
+}
+mutation DeleteAppUser($input: DeleteAppUserInput!) {
+  deleteAppUser(input: $input) {
+    id
+    userName
+    locLat
+    locLng
+  }
+}
+mutation CreateSvcReq($input: CreateSvcReqInput!) {
+  createSvcReq(input: $input) {
+    id
+    custUName
+    provUName
+    svcLat
+    svcLng
+    svcAddr
+  }
+}
+mutation UpdateSvcReq($input: UpdateSvcReqInput!) {
+  updateSvcReq(input: $input) {
+    id
+    custUName
+    provUName
+    svcLat
+    svcLng
+    svcAddr
+  }
+}
+mutation DeleteSvcReq($input: DeleteSvcReqInput!) {
+  deleteSvcReq(input: $input) {
+    id
+    custUName
+    provUName
+    svcLat
+    svcLng
+    svcAddr
+  }
+}

@@ -1,0 +1,17 @@
+type AppUser @model {
+  id: ID!
+  userName: String
+  locLat: Float
+  locLng: Float
+}
+
+type SvcReq @model {
+  id: ID!
+  custUName: String
+  provUName: String
+  svcLat: Float
+  svcLng: Float
+  svcAddr: String
+
+}
+

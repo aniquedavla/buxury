@@ -1,0 +1,19 @@
+{
+    "env": {
+        "awscloudformation": {
+            "AuthRoleName": "buxury-env-20190919135644-authRole",
+            "UnauthRoleArn": "arn:aws:iam::467252345316:role/buxury-env-20190919135644-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::467252345316:role/buxury-env-20190919135644-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "buxury-env-20190919135644-deployment",
+            "UnauthRoleName": "buxury-env-20190919135644-unauthRole",
+            "StackName": "buxury-env-20190919135644",
+            "StackId": "arn:aws:cloudformation:us-east-1:467252345316:stack/buxury-env-20190919135644/fd16a6a0-db1f-11e9-84d5-12ccfe651680"
+        },
+        "categories": {
+            "auth": {
+                "buxury9d6dc9d6": {}
+            }
+        }
+    }
+}
