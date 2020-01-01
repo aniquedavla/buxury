@@ -1,5 +1,9 @@
 # Buxury
 
+## Design
+https://docs.google.com/presentation/d/1LZ084v9FUdNWKg8PUBs1YkDiEVvAvNvF25XfzzPXtrs/edit?usp=sharing 
+
+
 ## Steps to merge you code with master
 ### Prereq:
 - Only do this when you have something significant to merge with master like a decent amount of code or progress towards a feature.
@@ -23,3 +27,4 @@
 	git commit -m  “You name and changes merged with master ”
 	git push
 
+   
