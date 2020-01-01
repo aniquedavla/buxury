@@ -1,4 +1,4 @@
-# BuxuryApp
+# Buxury
 
 ## Steps to merge you code with master
 ### Prereq:
